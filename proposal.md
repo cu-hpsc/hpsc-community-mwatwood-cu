@@ -1,9 +1,8 @@
 # Community Software Analysis Proposal
-Please edit this file and push to your repository.
 
 ## Software: E3SM (MPAS-O)
 
-E3SM is fully coupled climate model including ocean, atmosphere land ice, and sea ice. Useful to climate scientists and climate interested programmers.
+E3SM is fully coupled climate model including ocean, atmosphere land ice, and sea ice. Useful to climate scientists and climate interested programmers. I have worked previously on pieces of the MPAS-Ocean parts of the code.
 
 ### Stats
 
