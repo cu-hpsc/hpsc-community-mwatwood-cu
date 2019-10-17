@@ -1,10 +1,9 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: E#SM (MPAS-O)
+## Software: E3SM (MPAS-O)
 
-*Write a paragraph describing what the software does and who its
-primary audience is.*
+E3SM is fully coupled climate model including ocean, atmosphere land ice, and sea ice. Useful to climate scientists and climate interested programmers.
 
 ### Stats
 
