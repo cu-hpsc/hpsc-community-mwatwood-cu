@@ -54,3 +54,9 @@ https://github.com/NCAR/MOM6/issues/129
 Email correspondence idea:
 
 OpenMP profiling: MOM6 can be run in parallel with (1) MPI or  (2) both MPI and OpenMP. Within CESM, we have been running MOM6 with MPI only. Currently, about 30% of runtime is spent on message passing, so I think hybrid parallelism (MPI+OpenMP) may be considerably more efficient. I've recently been working on debugging our OpenMP directives and was able to compile and run with MPI+OpenMP last week. The future tasks that need to be undertaken are (1) the assessment of performance benefits of MPI+OpenMP,  (2) optimizing MPI+OpenMP and looking for more opportunities for multithreading in the code, and (3) the assessment of correctness (e.g, verifying that no race condition exists among threads, etc. 
+
+# Updated and Committed to a Wiki.
+
+Added an updated wiki for using the CU Boulder Summit Cluster. Not exactly the contribution above, but that was done by an NCAR staff member in the mean time and was a much larger project than anticipated.
+
+https://github.com/NCAR/MOM6-cases/wiki/Getting-Started/_history
